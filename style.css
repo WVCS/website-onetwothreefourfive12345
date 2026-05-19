@@ -1,3 +1,13 @@
+@charset "utf-8";
+ 
 body {
+background-color:darkslategrey;
+}
 
+img:hover {
+	border: 25px dotted #31B340
+}
+h2 {
+	color: antiquewhite;
+	text-decoration: underline ; 
 }
